@@ -1,0 +1,13 @@
+* {
+    background-color: grey;
+    text-align: center;
+}
+
+label {
+    background-color: grey;
+}
+
+a {
+    text-decoration: none;
+    color:  #303030;
+}

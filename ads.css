@@ -1,0 +1,19 @@
+.nav {
+    background-color: #303030;
+    height: 40px;
+    margin-right: 40px;
+    
+}
+
+* {
+    background-color: grey;
+    text-decoration:  sa;
+}
+
+a {
+    background-color: #303030;
+    color: grey;
+    margin-right: 40px;
+    text-decoration: none;
+    text-align: center;
+}

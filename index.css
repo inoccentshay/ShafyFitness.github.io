@@ -1,0 +1,20 @@
+* {
+    background-color: grey;
+    text-align: center;
+}
+
+#logo {
+    align-self: center;
+    height: 300px;
+    width: 300px;
+}
+
+div {
+    text-align: center;
+    border-radius: 50%;
+}
+
+a {
+    text-decoration: none;
+    color:  #303030;
+}

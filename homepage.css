@@ -1,0 +1,39 @@
+.nav {
+    background-color: #303030;
+    height: 40px;
+    margin-right: 40px;
+  }
+  
+  a {
+    background-color: #303030;
+    color: grey;
+    margin-right: 40px;
+    text-decoration: none;
+    text-align: center;
+  }
+  
+  h3 {
+    text-align: center;
+  }
+  
+  #intro {
+    display: grid; 
+    grid-template-columns: 1fr 3fr; 
+    gap: 20px;
+  }
+  
+  .bus {
+    margin: 0; 
+    width: 100%; 
+  }
+  
+  .text-container {
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+  }
+  
+  * {
+    background-color: gray;
+  }
+  

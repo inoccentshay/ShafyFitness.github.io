@@ -1,0 +1,25 @@
+a {
+    background-color: #303030;
+    color: grey;
+    margin-right: 40px;
+    text-decoration: none;
+    text-align: center;
+}
+
+* {
+    background-color: gray;
+}
+
+.nav {
+    background-color: #303030;
+    height: 40px;
+    margin-right: 40px;
+}
+
+h3 {
+    text-align: center;
+}
+
+#text {
+    text-align: center;
+}

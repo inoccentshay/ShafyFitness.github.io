@@ -1,0 +1,28 @@
+a {
+    background-color: #303030;
+    color: grey;
+    margin-right: 40px;
+    text-decoration: none;
+    text-align: center;
+}
+
+* {
+    background-color: gray;
+}
+
+input {
+    height: 300px;
+    width: 500px;
+    background-color: darkgrey;
+}
+
+body {
+    text-align: center;
+}
+
+.nav {
+    background-color: #303030;
+    height: 40px;
+    margin-right: 40px;
+    
+}
